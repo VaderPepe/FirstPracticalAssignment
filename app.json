@@ -1,0 +1,12 @@
+{
+  "name": "FirstPracticalAssignment",
+  "displayName": "FirstPracticalAssignment",
+  "expo": {
+    "name": "FirstPracticalAssignment",
+    "slug": "FirstPracticalAssignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
