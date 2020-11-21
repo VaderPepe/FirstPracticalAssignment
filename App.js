@@ -11,7 +11,7 @@ export default function App() {
   }}>
       <Image
         style={{height:100, width:'50%'}}
-  source={{uri:'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FJHeaBh6wmWLY4b7sASU_AHaDt%26pid%3DApi&f=1'}}
+  source={{uri:'https://cdn.shopify.com/s/files/1/1691/9439/products/unnamed.jpg12_1400x.png?v=1578445483'}}
         />
  <Text>Hello World from Group 8 : Jānis Lapers</Text>
         </View>
